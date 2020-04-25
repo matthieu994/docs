@@ -1,8 +1,6 @@
 = Configuration Template
-:toc: left
-:toc-title: Content
 :imagesdir: ../resources/
-:ext-relative: adoc
+ifdef::env-github,env-browser[:outfilesuffix: .adoc]
 
 == Configuration Template at the Profile Level
 
@@ -56,7 +54,7 @@ This tab shows all the templates attached to the device.
 * In gray: the templates that are attached to a profile (if the device
 is attached to a configuration profile)
 
-image:https://d20ftpvh66dtxq.cloudfront.net/Script_post.gif'%20%%7D[image,height=16] and image:https://d20ftpvh66dtxq.cloudfront.net/Script_pre.gif[image,height=16]
+image:https://d20ftpvh66dtxq.cloudfront.net/Script_post.gif'_%%7D[image,height=16] and image:https://d20ftpvh66dtxq.cloudfront.net/Script_pre.gif[image,height=16]
 indicate if the template was attached as a pre-configuration or a
 post-configuration template.
 

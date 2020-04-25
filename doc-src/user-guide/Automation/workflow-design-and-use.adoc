@@ -1,8 +1,6 @@
 = Workflow Design And Use
-:toc: left
-:toc-title: Content
 :imagesdir: ../resources/
-:ext-relative: adoc
+ifdef::env-github,env-browser[:outfilesuffix: .adoc]
 
 [[main-content]]
 [[WorkflowDesignandUse-Workflow,WorkflowInstance,ProcessandTask]]

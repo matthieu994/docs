@@ -1,8 +1,6 @@
 = Configure Behavior For User Inputs In A Workflow Form
-:toc: left
-:toc-title: Content
 :imagesdir: ../resources/
-:ext-relative: adoc
+ifdef::env-github,env-browser[:outfilesuffix: .adoc]
 
 [[main-content]]
 The main purpose for adding behaviour to a Workflow web form is to

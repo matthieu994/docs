@@ -1,8 +1,6 @@
 = Database Template Variables
-:toc: left
-:toc-title: Content
 :imagesdir: ../../resources/
-:ext-relative: adoc
+ifdef::env-github,env-browser[:outfilesuffix: .adoc]
 
 [[main-content]]
 Here are the main variables that will be used in the

@@ -1,8 +1,6 @@
 = Monitoring Profile
-:toc: left
-:toc-title: Content
 :imagesdir: ../resources/
-:ext-relative: adoc
+ifdef::env-github,env-browser[:outfilesuffix: .adoc]
 
 [[main-content]]
 The MSActivator has SNMP-based monitoring capabilities and provides an
@@ -54,7 +52,7 @@ link:[image:images/image2018-4-5_18-3-4.png[Image,width=800]]
 === Monitor Your KPI 
 
 In order to monitor your KPI, you need to associate a monitoring profile
-to a link:../Getting%20Started/managed-devices.adoc[Managed Device].
+to a link:../Getting_Started/managed-devices.adoc[Managed Device].
 
 Select the 'PROFILES' tab on the Customer page to list the monitoring
 profiles.

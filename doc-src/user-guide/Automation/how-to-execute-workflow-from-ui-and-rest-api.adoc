@@ -1,8 +1,6 @@
 = How To Execute Workflow From Ui And Rest Api
-:toc: left
-:toc-title: Content
 :imagesdir: ../resources/
-:ext-relative: adoc
+ifdef::env-github,env-browser[:outfilesuffix: .adoc]
 
 [[main-content]]
 If a Workflow needs to be invoked from a portal and REST API in the

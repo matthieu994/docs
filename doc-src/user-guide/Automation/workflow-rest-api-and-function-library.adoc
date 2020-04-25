@@ -1,8 +1,6 @@
 = Workflow Rest Api And Function Library
-:toc: left
-:toc-title: Content
 :imagesdir: ../resources/
-:ext-relative: adoc
+ifdef::env-github,env-browser[:outfilesuffix: .adoc]
 
 [[main-content]]
 Before we deal with how to invoke the processes of Workflows, we need to

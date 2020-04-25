@@ -1,8 +1,6 @@
 = Getting Started Developing Microservices
-:toc: left
-:toc-title: Content
 :imagesdir: ../../resources/
-:ext-relative: adoc
+ifdef::env-github,env-browser[:outfilesuffix: .adoc]
 
 NOTE: getting the sources
 The source of this tutorial is available on GitHub at

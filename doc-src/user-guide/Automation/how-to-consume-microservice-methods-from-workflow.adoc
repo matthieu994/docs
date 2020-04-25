@@ -1,8 +1,6 @@
 = How To Consume Microservice Methods From Workflow
-:toc: left
-:toc-title: Content
 :imagesdir: ../resources/
-:ext-relative: adoc
+ifdef::env-github,env-browser[:outfilesuffix: .adoc]
 
 [[main-content]]
 Thanks to the MSActivator's DevOps friendly nature, consuming these APIs

@@ -1,8 +1,6 @@
 = Workflow Engine
-:toc: left
-:toc-title: Content
 :imagesdir: ../resources/
-:ext-relative: adoc
+ifdef::env-github,env-browser[:outfilesuffix: .adoc]
 
 [[main-content]]
 Below is a diagram of the Workflow engine:

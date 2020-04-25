@@ -1,8 +1,6 @@
 = How To Create Complex Constraints
-:toc: left
-:toc-title: Content
 :imagesdir: ../../resources/
-:ext-relative: adoc
+ifdef::env-github,env-browser[:outfilesuffix: .adoc]
 
 == Overview
 
