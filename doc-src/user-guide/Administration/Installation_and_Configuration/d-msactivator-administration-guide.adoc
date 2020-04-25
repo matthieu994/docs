@@ -102,7 +102,7 @@ The D-MSA configuration templates are located in /opt/ubisysconf/ha/ of
 MSA.
 
 [[D-MSActivatorAdministrationGuide-Servers.conf]]
-==== Servers.conf **
+==== Servers.conf
 
 [[D-MSActivatorAdministrationGuide-Aprerequisiteforbuildingtheserver.conffileistohaveidentifiedallIPaddressesthataregoingtobeusedwithintheDMSAsetup.]]
 ===== A prerequisite for building the server.conf file is to have identified all IP addresses that are going to be used within the DMSA setup.
