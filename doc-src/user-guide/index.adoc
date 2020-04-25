@@ -1,7 +1,7 @@
 = Documentation
-:toc: left
-:toc-title: Content 
+:doctype: book
 :imagesdir: ./resources/
+ifdef::env-github,env-browser[:outfilesuffix: .adoc]
 
 Welcome to the MSActivator documentation.
 
