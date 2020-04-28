@@ -1,5 +1,6 @@
 = User Administration
 :imagesdir: ../resources/
+:ext-relative: adoc
 ifdef::env-github,env-browser[:outfilesuffix: .adoc]
 
 == Security and Credential Management

@@ -1,5 +1,6 @@
 = Getting Started Developing Workflows
 :imagesdir: ../resources/
+:ext-relative: adoc
 ifdef::env-github,env-browser[:outfilesuffix: .adoc]
 
 == Overview

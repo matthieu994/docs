@@ -1,5 +1,6 @@
 = Device Lifecycle
 :imagesdir: ../resources/
+:ext-relative: adoc
 ifdef::env-github,env-browser[:outfilesuffix: .adoc]
 
 [[main-content]]

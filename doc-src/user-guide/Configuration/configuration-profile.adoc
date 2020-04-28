@@ -1,5 +1,6 @@
 = Configuration Profile
 :imagesdir: ../resources/
+:ext-relative: adoc
 ifdef::env-github,env-browser[:outfilesuffix: .adoc]
 
 [[main-content]]
@@ -10,7 +11,7 @@ consistent configuration.
 
 A managed device can only be associated with one configuration profile.
 
-A link:./Configuration_Template/configuration-template{outfilesuffix}[configuration
+A link:Configuration_Template/configuration-template{outfilesuffix}[configuration
 template] and/or a link:../Configuration/Microservices/microservices{outfilesuffix}[Microservices] can
 be associated with multiple configuration profiles.
 

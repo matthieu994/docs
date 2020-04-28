@@ -1,5 +1,6 @@
 = Device Status
 :imagesdir: ../resources/
+:ext-relative: adoc
 ifdef::env-github,env-browser[:outfilesuffix: .adoc]
 
 == Overview

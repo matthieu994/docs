@@ -1,11 +1,12 @@
 = Configuration Template
 :imagesdir: ../resources/
+:ext-relative: adoc
 ifdef::env-github,env-browser[:outfilesuffix: .adoc]
 
 == Configuration Template at the Profile Level
 
 Configuration templates can be grouped together using a
-link:./configuration-profile{outfilesuffix}[Configuration Profile].
+link:configuration-profile{outfilesuffix}[Configuration Profile].
 
 link:../../Getting_Started/managed-devices{outfilesuffix}[Managed devices] can be attached to
 a link:../configuration-profile{outfilesuffix}[Configuration Profile].
@@ -68,7 +69,7 @@ Therefore, they contain variables that have to be declared.
 
 Templates can also contain variables coming from the database. The
 variables are available through the entry point *\{$SD}* see:
-link:./database-template-variables{outfilesuffix}[Database template
+link:database-template-variables{outfilesuffix}[Database template
 variables]
 
 Once templates are associated to a device (directly or through a

@@ -1,5 +1,6 @@
 = Msa Logs
 :imagesdir: ../../resources/
+:ext-relative: adoc
 ifdef::env-github,env-browser[:outfilesuffix: .adoc]
 
 This article will explain to you all about logs for each of the MSA

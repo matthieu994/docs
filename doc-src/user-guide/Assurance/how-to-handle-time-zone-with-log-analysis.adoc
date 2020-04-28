@@ -1,5 +1,6 @@
 = How To Handle Time Zone With Log Analysis
 :imagesdir: ../resources/
+:ext-relative: adoc
 ifdef::env-github,env-browser[:outfilesuffix: .adoc]
 
 == Overview

@@ -1,5 +1,6 @@
 = How To Pass Values Between Tasks
 :imagesdir: ../resources/
+:ext-relative: adoc
 ifdef::env-github,env-browser[:outfilesuffix: .adoc]
 
 [[main-content]]

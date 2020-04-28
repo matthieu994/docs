@@ -1,5 +1,6 @@
 = Msactivator Installation And Configuration Guide
 :imagesdir: ../../resources/
+:ext-relative: adoc
 ifdef::env-github,env-browser[:outfilesuffix: .adoc]
 
 == Installation

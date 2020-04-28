@@ -1,5 +1,6 @@
 = How To Use A Microservice As A Dynamic Data Provider For List
 :imagesdir: ../resources/
+:ext-relative: adoc
 ifdef::env-github,env-browser[:outfilesuffix: .adoc]
 
 [[main-content]]

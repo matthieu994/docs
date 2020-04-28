@@ -1,5 +1,6 @@
 = Getting Started With The Msactivator
 :imagesdir: ../resources/
+:ext-relative: adoc
 ifdef::env-github,env-browser[:outfilesuffix: .adoc]
 
 == Overview of the MSActivator^TM^

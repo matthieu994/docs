@@ -1,5 +1,6 @@
 = How To Use The Type Composite
 :imagesdir: ../../resources/
+:ext-relative: adoc
 ifdef::env-github,env-browser[:outfilesuffix: .adoc]
 
 [[main-content]]

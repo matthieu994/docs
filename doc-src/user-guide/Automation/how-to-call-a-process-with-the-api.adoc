@@ -1,5 +1,6 @@
 = How To Call A Process With The Api
 :imagesdir: ../resources/
+:ext-relative: adoc
 ifdef::env-github,env-browser[:outfilesuffix: .adoc]
 
 [[main-content]]
