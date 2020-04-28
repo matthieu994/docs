@@ -5,14 +5,14 @@ ifdef::env-github,env-browser[:outfilesuffix: .adoc]
 == Configuration Template at the Profile Level
 
 Configuration templates can be grouped together using a
-link:./configuration-profile.adoc[Configuration Profile].
+link:./configuration-profile{outfilesuffix}[Configuration Profile].
 
-link:++../../Getting Started/managed-devices.adoc++[Managed devices] can be attached to
-a link:../configuration-profile.adoc[Configuration Profile].
+link:../../Getting_Started/managed-devices{outfilesuffix}[Managed devices] can be attached to
+a link:../configuration-profile{outfilesuffix}[Configuration Profile].
 
 This is useful when a managed service is defined as a group of
 configuration templates and/or Microservices, and has to be applied
-consistently to multiple link:++../../Getting Started/managed-devices.adoc++[Managed devices].
+consistently to multiple link:../../Getting_Started/managed-devices{outfilesuffix}[Managed devices].
 
 The SecEngine module will resolve the template for each device's
 configuration variables and update the device's configuration, one by
@@ -35,7 +35,7 @@ Adding configuration templates to a device is similar to adding a
 template to a configuration profile:
 
 1.  Select a template from the
-link:../configuration-repository.adoc[Configuration Repository].
+link:../configuration-repository{outfilesuffix}[Configuration Repository].
 2.  Configure the variables attached to the template on the bottom
 panel.
 3.  Save.
@@ -61,14 +61,14 @@ post-configuration template.
 === Viewing the resolved templates
 
 As explained in the
-link:../configuration-repository.adoc[Configuration Repository]
+link:../configuration-repository{outfilesuffix}[Configuration Repository]
 page, configuration files that can be uploaded in the repository are
 templates. +
 Therefore, they contain variables that have to be declared.
 
 Templates can also contain variables coming from the database. The
 variables are available through the entry point *\{$SD}* see:
-link:./database-template-variables.adoc[Database template
+link:./database-template-variables{outfilesuffix}[Database template
 variables]
 
 Once templates are associated to a device (directly or through a
